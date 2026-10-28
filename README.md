@@ -428,6 +428,7 @@ Opt for open-source and P2P alternatives that prioritize data privacy, eliminate
 ✅ Instead use
 - [Appwrite](https://appwrite.io/) - Secure open-source backend server for web, mobile & Flutter developers.
 - [Supabase](https://supabase.com/) - Open source Firebase alternative ([Limited](https://github.com/supabase/supabase/issues/4934) [self-hosting](https://github.com/supabase/supabase/issues/4440#issuecomment-992108832))
+- [Nhost](https://nhost.io/) - Open source backend for agentic apps on Postgres, with GraphQL, auth and storage. Can be fully self-hosted.
 - [Pocketbase](https://pocketbase.io/) - Open Source backend in 1 file written in Go.
 - [TrailBase](https://trailbase.io/) - Open source, single-executable Firebase alternative built on Rust and SQLite, with type-safe REST and realtime APIs, auth, and an admin UI. OSL-3.0 licensed.
 - [Baserow](https://baserow.io/) - Self-hosted no-code database and spreadsheet that works as an open source Airtable alternative. MIT licensed core.
